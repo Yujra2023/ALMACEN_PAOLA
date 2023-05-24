@@ -1,0 +1,5 @@
+com\emergentes\dao\almacenDAO.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\dao\almacenDAOimpl.class
+com\emergentes\controlador\inicio.class
+com\emergentes\modelo\almacen.class
